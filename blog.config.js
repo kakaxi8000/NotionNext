@@ -19,7 +19,7 @@ const BLOG = {
 
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || '吃瓜资源搜索', // 您的昵称 例如 tangly1024
   BIO: process.env.NEXT_PUBLIC_BIO || '一个普通的干饭人🍚', // 作者简介
-  LINK: process.env.NEXT_PUBLIC_LINK || 'https://notion-next-9jw9cj8bd-kakaxis-projects-d2433b4a.vercel.app/', // 网站地址
+  LINK: process.env.NEXT_PUBLIC_LINK || 'https://www.cgzyss.com//', // 网站地址
   KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || '吃瓜资源搜索, 博客', // 网站关键词 英文逗号隔开
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
