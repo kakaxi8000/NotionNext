@@ -17,7 +17,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '欢迎入群',
   HEO_HERO_TITLE_2: '技术交流',
-  HEO_HERO_TITLE_3: 'https://t.me/kktgid',
+  HEO_HERO_TITLE_3: 'https://t.me/cgzy6',
   HEO_HERO_TITLE_4: '搜索资源',
   HEO_HERO_TITLE_5: '轻松搜遍电报',
   HEO_HERO_TITLE_LINK: 'https://t.me/zyss6666',
@@ -108,7 +108,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://t.me/kktgid',
+  HEO_SOCIAL_CARD_URL: 'https://t.me/cgzy6',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
